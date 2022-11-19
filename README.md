@@ -6,3 +6,5 @@ Android applications are built with the MVVM archecture. This has a database lay
 
 There are three main components in room. The database class which holds the databasse and serves as the main access point for the underlying connection to your apps persisted data. Data entities which represent tables in your database app. Database Access Objects (DAO)'s that provide methods that your app can use to update, query, insert and delete data in the database
 ![room_architecture (1)](https://user-images.githubusercontent.com/1126590/202853503-699be6e4-d9ca-45be-a9e1-10627f8795f1.png)
+
+Next lesson: A Room with a view - codelabs
