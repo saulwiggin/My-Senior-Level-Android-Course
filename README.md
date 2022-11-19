@@ -18,3 +18,9 @@ The viewmodel acts as a communication layer or bridge between the repository and
 3. Next lesson we look at building a basic archecture example
 [
 ](https://github.com/android/architecture-components-samples/tree/master/BasicSample)
+
+4. Viewmodels and lifecycle
+[
+](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e)[
+
+1_CGGROXWhl8dTko1GdDeFsA](https://user-images.githubusercontent.com/1126590/202857850-17f913ae-682d-4d34-9462-0fe8ad8e33e3.png)
