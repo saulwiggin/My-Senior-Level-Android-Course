@@ -11,17 +11,10 @@ There are three main components in room. The database class which holds the data
 This is a codelabs excercise where MVVM archecture is used in order to build a minimum viable app. This involves using the room database we mett previously and builds out the functionality with Livedata, Viewmodel and Room. Live data is a data holder class that can be observed. It always holds or caches the latest version of the data and notifys observers when it has changed. Live data is lifecycle aware. We will go into what the lifecycle of an android application is in more detail later as it is a very important concept. UI components observe this relevant data. 
 ![8e4b761713e3a76b_856](https://user-images.githubusercontent.com/1126590/202856089-e0bd1e67-a7a7-466c-aa2b-7d8fa6a0638d.png)
 
-The viewmodel acts as a communication layer or bridge between the repository and the UI. The UI no longer needs to worry about the location or source of the data once connected with the viewmodel. viewmodel instances survive fragment re-creation.
+The viewmodel acts as a communication layer or bridge between the repository and the UI. The UI no longer needs to worry about the location or source of the data once connected with the viewmodel. viewmodel instances survive fragment re-creation. The repository manages the use of multiple data sources. Entity we have met previously as the class that describes the database table when working with room. Room database simplifies database work and acts as a access point to the underlying SQLite database. The room database uses the DAO to issue instructions to the SQLite database. SQLite database is the on device storage. The room persistance library creates and maintains this for you. DAO is the concept we've met before which is a mapping of the SQL querues to functions. When you use the DAO it performs actions through the room database. 
 
-The repository manages the use of multiple data sources.
-
-Entity we have met previously as the class that describes the database table when working with room.
-
-Room database simplifies database work and acts as a access point to the underlying SQLite database. The room database uses the DAO to issue instructions to the SQLite database. 
-
-SQLite database is the on device storage. The room persistance library creates and maintains this for you. 
-
-DAO is the concept we've met before which is a mapping of the SQL querues to functions. When you use the DAO it performs actions through the room database. 
-
-So lets go ahead and build the room with a view application... 
 ![a70aca8d4b737712_856](https://user-images.githubusercontent.com/1126590/202856595-29c26150-902b-4338-bb07-932ca484063f.png)
+
+3. Next lesson we look at building a basic archecture example
+[
+](https://github.com/android/architecture-components-samples/tree/master/BasicSample)
