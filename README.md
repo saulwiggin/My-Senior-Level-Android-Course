@@ -45,18 +45,16 @@ The viewmodel acts as a communication layer or bridge between the repository and
 
 10. Media player
 
-11. 
-
 ##Advanced Features
 
-9. Coroutines
+11. Coroutines
 
-10. Dependancy injection
+12. Dependancy injection
 
-11. Worker threads
+13. Worker threads
 
-12. Testing
+14. Testing
 
-13. Firebase
+15. Firebase
 
-14. Jetpack compose
+16. Jetpack compose
