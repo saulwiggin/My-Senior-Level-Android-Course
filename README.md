@@ -1,4 +1,5 @@
 # My-Senior-Level-Android-Course
+## Core Archecture
 1. Room database backend with model
 
 Android applications are built with the MVVM archecture. This has a database layer, an API layer, a repository layer, a viewmodel layer and a fragment layer. We will proceed through each stage to develop a working application. 
@@ -25,6 +26,8 @@ The viewmodel acts as a communication layer or bridge between the repository and
 
 1_CGGROXWhl8dTko1GdDeFsA](https://user-images.githubusercontent.com/1126590/202857850-17f913ae-682d-4d34-9462-0fe8ad8e33e3.png)
 
+## Adding functionality
+
 5. adding new data from Phillip Lackner New MVVM application
 [
 ](https://www.youtube.com/watch?v=asuOWE5KuFM&list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ)
@@ -34,3 +37,11 @@ The viewmodel acts as a communication layer or bridge between the repository and
 7. Pagination
 
 8. Expanding a fragment view-detail 
+
+##Advanced Features
+
+9. Coroutines
+
+10. Dependancy injection
+
+11. Worker threads
