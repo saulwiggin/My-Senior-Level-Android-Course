@@ -15,7 +15,7 @@ The viewmodel acts as a communication layer or bridge between the repository and
 
 ![a70aca8d4b737712_856](https://user-images.githubusercontent.com/1126590/202856595-29c26150-902b-4338-bb07-932ca484063f.png)
 
-3. Next lesson we look at building a basic archecture example
+3. Next lesson we look at building a basic archecture example building on the room with a view application
 [
 ](https://github.com/android/architecture-components-samples/tree/master/BasicSample)
 
@@ -24,3 +24,13 @@ The viewmodel acts as a communication layer or bridge between the repository and
 ](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e)[
 
 1_CGGROXWhl8dTko1GdDeFsA](https://user-images.githubusercontent.com/1126590/202857850-17f913ae-682d-4d34-9462-0fe8ad8e33e3.png)
+
+5. adding new data from Phillip Lackner New MVVM application
+[
+](https://www.youtube.com/watch?v=asuOWE5KuFM&list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ)
+
+6. Search function
+
+7. Pagination
+
+8. Expanding a fragment view-detail 
