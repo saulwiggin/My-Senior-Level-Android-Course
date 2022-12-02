@@ -26,6 +26,8 @@ The viewmodel acts as a communication layer or bridge between the repository and
 
 1_CGGROXWhl8dTko1GdDeFsA](https://user-images.githubusercontent.com/1126590/202857850-17f913ae-682d-4d34-9462-0fe8ad8e33e3.png)
 
+[
+](https://developer.android.com/codelabs/basic-android-kotlin-compose-activity-lifecycle?hl=en#1)
 ## Adding functionality
 
 5. adding new data from Phillip Lackner New MVVM application
@@ -38,6 +40,13 @@ The viewmodel acts as a communication layer or bridge between the repository and
 
 8. Expanding a fragment view-detail 
 
+9. Add a scrollable list [
+](https://codelabs.developers.google.com/?cat=Android)
+
+10. Media player
+
+11. 
+
 ##Advanced Features
 
 9. Coroutines
@@ -45,3 +54,9 @@ The viewmodel acts as a communication layer or bridge between the repository and
 10. Dependancy injection
 
 11. Worker threads
+
+12. Testing
+
+13. Firebase
+
+14. Jetpack compose
