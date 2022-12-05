@@ -19,6 +19,11 @@ The viewmodel acts as a communication layer or bridge between the repository and
 3. Next lesson we look at building a basic archecture example building on the room with a view application
 [
 ](https://github.com/android/architecture-components-samples/tree/master/BasicSample)
+[
+](https://github.com/android/architecture-samples/tree/main)
+We can use MVVM archecture to include modern Android tooling as well such as Jetpack compose, navigation compose, reactive UI's using Flow, a datalayer or repository layer, production and dev environments, integration and unit testing and dependancy injection with Hilt. These features will be built upon the base android application in a modular way. We will return to the archecture samples advanced version at the end of the course to refactor the original app into a words task to do app featuring all the advanced features of Android. 
+
+![screenshots](https://user-images.githubusercontent.com/1126590/205684993-f99309a2-15ab-49e2-bae0-a9afed567b46.png)
 
 4. Viewmodels and lifecycle
 [
@@ -60,3 +65,8 @@ see courses[
 15. Firebase
 
 16. Jetpack compose
+
+Jetpack Compose is a new way of developing the UI in Android. It features the UI componenets in UI format layouts, textviews, lists, grids, themes and animations. It features all the original formatting such as text, fontsize, modifiers, color, etc which was featured on the layout sidebar previously. This means that the state can be updated programatically. 
+
+![Screenshot 2022-12-05 at 18 45 26](https://user-images.githubusercontent.com/1126590/205717541-efb53e4a-da54-42d6-866a-4b0f7fa290c5.png)
+
