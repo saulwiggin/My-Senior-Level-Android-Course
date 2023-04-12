@@ -70,3 +70,5 @@ Jetpack Compose is a new way of developing the UI in Android. It features the UI
 
 ![Screenshot 2022-12-05 at 18 45 26](https://user-images.githubusercontent.com/1126590/205717541-efb53e4a-da54-42d6-866a-4b0f7fa290c5.png)
 
+See Slides [
+](https://drive.google.com/drive/folders/1MRqvBGEDtNtpDyKd8sulMJreFCz1JxgC)
